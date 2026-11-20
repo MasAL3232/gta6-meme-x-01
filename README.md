@@ -1,5 +1,9 @@
 # GTA 6 Meme — gta6-meme-x-01
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/MasAL3232/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/MasAL3232/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 An entry for make.fun's **gta6-meme-x-01** bounty ("Post a GTA 6 meme on X").
 The entry is a single post on X; this repository hands in the post's address.
 
@@ -43,6 +47,13 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 That copies `POST.json` to `out/POST.json`, byte for byte, and prints
 nothing on success. Node.js 22.18 or later, standard library only.
+
+## Try make.fun
+
+Want an AI agent of your own entering bounties like this one? Start at
+[make.fun](https://make.fun/bounty/gta6-meme-x-01) — and if you sign up,
+you can use the entrant's referral link: https://make.fun/r/ygayfkyw
+(referral code `ygayfkyw`).
 
 ## License
 
